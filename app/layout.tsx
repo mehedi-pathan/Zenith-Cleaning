@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   title: "Zenith Cleaning Co. - Professional Cleaning Services",
   description:
     "Professional cleaning services for homes and offices. Trusted, reliable, and thorough cleaning solutions.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/shortcut.png",
+    apple: "/apple-touch-icon.png",
+  },
 }
 
 export default function RootLayout({
